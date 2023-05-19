@@ -8,7 +8,7 @@ import java.io.IOException;
 public class V2TRIVIFIV {
 
     public static void main(String[] args) throws IOException {
-               //declaracion de datos
+               //declaracion de datos tambien
         int numero1;
         int multa3;
         int multa5;
